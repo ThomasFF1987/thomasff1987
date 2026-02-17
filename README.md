@@ -70,9 +70,7 @@ Change theme= parameter to customize
 
 ## 🌟 Featured Projects
 
-<a href="https://github.com/ThomasFF1987/react-mastermind">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThomasFF1987&repo=react-mastermind" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasFF1987&repo=react-mastermind&theme=radical&show_owner=true)](https://github.com/ThomasFF1987/react-mastermind)
 <a href="https://github.com/ThomasFF1987/CardHandManager">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThomasFF1987&repo=CardHandManager" />
 </a>
