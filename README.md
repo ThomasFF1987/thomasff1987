@@ -70,7 +70,8 @@ Change theme= parameter to customize
 
 ## 🌟 Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasFF1987&repo=react-mastermind&theme=radical&show_owner=true)](https://github.com/ThomasFF1987/react-mastermind)
+#### [🎮 React Mastermind](https://github.com/ThomasFF1987/react-mastermind)
+> Jeu de Mastermind développé avec React
 <a href="https://github.com/ThomasFF1987/CardHandManager">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThomasFF1987&repo=CardHandManager" />
 </a>
