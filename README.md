@@ -72,9 +72,7 @@ Change theme= parameter to customize
 
 #### [🎮 React Mastermind](https://github.com/ThomasFF1987/react-mastermind)
 > Mastermind game developed with React
-<a href="https://github.com/ThomasFF1987/CardHandManager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThomasFF1987&repo=CardHandManager" />
-</a>
+
 #### [🃏 CardHandManager](https://github.com/ThomasFF1987/CardHandManager)
 > Unity package to help developer maange a hand of cards in their games
 
