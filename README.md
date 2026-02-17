@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on personal projectssuch as CardHandManager
+- 🔭 I'm currently working on personal projects such as CardHandManager
 - 🌱 I'm currently learning React, TypeScript
 - 👯 I'm looking to collaborate on open source projects
 - 💬 Ask me about Game and Web development
