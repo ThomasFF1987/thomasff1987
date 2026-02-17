@@ -8,7 +8,7 @@
 -->
 
 <h1 align="center">👋 Hi, I'm Thomas!</h1>
-<h3 align="center">Senior Game Developer - Specialized in Unity C#</h3>
+<h3 align="center">Senior Game Developer - Specialized in Unity C# & javascript</h3>
 
 ---
 
