@@ -62,19 +62,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThomasFF1987&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
-</p>
-
-<!-- 
-Available themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
-Change theme= parameter to customize
--->
-
----
-
 ## 🌟 Featured Projects
 
 #### [🎮 React Mastermind](https://github.com/ThomasFF1987/react-mastermind)
