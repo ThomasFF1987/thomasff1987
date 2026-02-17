@@ -7,8 +7,8 @@
 5. Commit and your profile will update automatically!
 -->
 
-<h1 align="center">Hi 👋, I'm Thomas</h1>
-<h3 align="center">Senior Game Developer</h3>
+<h1 align="center">👋 Hi, I'm Thomas!</h1>
+<h3 align="center">Senior Game Developer - Specialized in Unity C#</h3>
 
 ---
 
